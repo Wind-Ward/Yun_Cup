@@ -42,7 +42,6 @@ RNN|0.547
 * [Kaggle Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/kernels)
 * ***Large Scale Multi-label Text Classification With Deep Learning***
 * ***Convolutional Neural Networks for Sentence Classification***
-* ***Convolutional Neural Networks for Sentence Classification***
 * ***Recurrent Convolutional Neural Networks for Text Classification***
 * ***Neural Machine Translation of Rare Words with Subword Units***
 * ***A Sensitivity Analysis of (and Practitioners’ Guide to) Convolutional Neural Networks for Sentence Classification***
