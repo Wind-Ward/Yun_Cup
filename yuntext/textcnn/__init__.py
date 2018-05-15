@@ -1,0 +1,1 @@
+from .text_cnn_multi_kernel import TextCNNMultiKernel1D
