@@ -1,7 +1,7 @@
 # "Yun Cup" Scenic Reputation Evaluation Score Forecast
 
 ### Introduction
-This package includes 3th solution for the ["Yun Cup" Scenic Reputation Evaluation Score Forecast] (http://www.datafountain.cn/#/competitions/283/intro).
+This package includes 3th solution for the ["Yun Cup" Scenic Reputation Evaluation Score Forecast](http://www.datafountain.cn/#/competitions/283/intro).
 
 ![text](https://github.com/Wind-Ward/Yun_Cup/raw/master/vendor/1.png)
 
@@ -39,6 +39,18 @@ Capsule|0.549
 HAN(LSTM-Attention)|0.550
 RNN|0.547
 
-### Reference
+### Failed
+* Data Augment
+* [TF-IDF-CD](http://manu44.magtech.com.cn/Jwk_infotech_wk3/article/2015/1003-3513/1003-3513-31-3-39.html)
+* Crawl comments from scenic reputation website to pretrain word embeddings.
+* Pseudo-Labelling
 
+
+### Reference
+* [Kaggle Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/kernels)
+*
+
+### Acknowledgments
+* [WindWard](https://github.com/Wind-Ward)
+* [fpc](https://github.com/stanpcf)
 
