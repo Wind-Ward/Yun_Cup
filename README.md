@@ -13,16 +13,8 @@ This package includes 3th solution for the ["Yun Cup" Scenic Reputation Evaluati
 - `yuntext`: deep learning model(including detailed instructions to setup).
 
 
-### Machine Learning
-![text](https://github.com/Wind-Ward/Yun_Cup/raw/master/vendor/3.png)
-
-
-### Deep Learnging
-![text](https://github.com/Wind-Ward/Yun_Cup/raw/master/vendor/4.png)
-
-
-### Stacking 
-* Stacking ensemble is much better than blending in our models.
+### Ensemble
+* Stacking get better performence in LB.
 ![text](https://github.com/Wind-Ward/Yun_Cup/raw/master/vendor/2.png)
 
 
@@ -41,14 +33,19 @@ RNN|0.547
 
 ### Failed
 * Data Augment
-* [TF-IDF-CD](http://manu44.magtech.com.cn/Jwk_infotech_wk3/article/2015/1003-3513/1003-3513-31-3-39.html)
+* [***TF-IDF-CD***](http://manu44.magtech.com.cn/Jwk_infotech_wk3/article/2015/1003-3513/1003-3513-31-3-39.html)
 * Crawl comments from scenic reputation website to pretrain word embeddings.
 * Pseudo-Labelling
 
 
 ### Reference
 * [Kaggle Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/kernels)
-*
+* ***Large Scale Multi-label Text Classification With Deep Learning***
+* ***Convolutional Neural Networks for Sentence Classification***
+* ***Convolutional Neural Networks for Sentence Classification***
+* ***Recurrent Convolutional Neural Networks for Text Classification***
+* ***Neural Machine Translation of Rare Words with Subword Units***
+* ***A Sensitivity Analysis of (and Practitioners’ Guide to) Convolutional Neural Networks for Sentence Classification***
 
 ### Acknowledgments
 * [WindWard](https://github.com/Wind-Ward)
